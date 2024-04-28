@@ -1,0 +1,10 @@
+mv ENCFF087SET.bed beds
+mv ENCFF100BSX.bed beds
+mv ENCFF193WPS.bed beds
+mv ENCFF197BBD.bed beds
+mv ENCFF202SHK.bed beds
+mv ENCFF260PVK.bed beds
+mv ENCFF419XZN.bed beds
+mv ENCFF424KQR.bed beds
+mv ENCFF459MDW.bed beds
+mv ENCFF783FEB.bed beds
